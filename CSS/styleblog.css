@@ -24,7 +24,7 @@
 }
 
 body {
-    background-color: #f1ede6;
+    background-color: #fefbf2;
     color: black;
 }
 
@@ -34,7 +34,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: #cbad8d;
+    background: #5e6cb3;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -61,7 +61,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #4d3f34;
+    color: #f7ab3e;
     ;
 }
 
@@ -98,18 +98,18 @@ body {
 .conteudo {
     width: 100%;             /* Mengikuti lebar container .blog */
     margin: 0 ;      /* Jarak antar box ke bawah */
-    background: #f1ede6;
+    background: #fefbf2;
     border-radius: 10px;
-    border: 1px solid #cbad8d;
+    border: 1px solid #252b48;
     padding: 25px;
-    box-shadow: 1px 1px 1px 0px #a48374;
+    box-shadow: 1px 1px 1px 0px #252b48;
 }
 
 
 
 .conteudo:hover{
-    border-bottom: 4px solid  #a48374;
-    box-shadow: 5px 5px 5px 0px #a48374;
+    border-bottom: 4px solid  #252b48;
+    box-shadow: 5px 5px 5px 0px #252b48;
 }
 
 
@@ -118,18 +118,18 @@ body {
     padding: 0;
     margin: 0 0 15px;
     font-weight: normal;
-    color: #666;
+    color: #575e7e;
 
 }
 .conteudo h2{
     font-weight: normal;
-    color: #4d3f34;
+    color: #575e7e;
     font-weight: bold;
 }
 
 .conteudo h3{
     font-weight: normal;
-    color: #4d3f34;
+    color: #575e7e;
     text-align: center;
     font-weight: bold;
     margin-top: -50px;
@@ -138,11 +138,11 @@ body {
     padding: 0;
     margin: 0 0 15px;
     font-weight: normal;
-    color: #666;
+    color: #575e7e;
 }
 
 .conteudo P:last-child{
-    color: #4d3f34;
+    color: #0c0e18;
     transition: all 0.5s ease;
     text-decoration: none;
     font-weight: 500;
@@ -150,7 +150,7 @@ body {
 }
 
 .conteudo P ul{
-    color: #4d3f34;
+    color: #0c0e18;
     transition: all 0.5s ease;
     text-decoration: none;
     font-weight: 100;
@@ -158,7 +158,7 @@ body {
 }
 
 .conteudo P{
-     color: #352c25;
+     color: #0c0e18;
     text-align: justify;
 }
 
