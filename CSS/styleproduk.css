@@ -12,8 +12,8 @@
 }
 
 :root{
-    --main-color:#cbad8d;
-    --text-color: #4d3f34;
+    --main-color:#f7ab3e;
+    --text-color: #252b48;
     --bg-color:#f1ede6;
     --box-shadow:var(--text-color);
 
@@ -38,7 +38,7 @@
 }
 
 body {
-    background: #f1ede6;
+    background: #fefbf2;
     color: black;
 }
 
@@ -48,7 +48,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: #cbad8d;
+    background: #5e6cb3;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -76,7 +76,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-    color: #4d3f34;
+    color: #f7ab3e;
     ;
 }
 
@@ -119,8 +119,8 @@ body {
    object-fit: contain;
    object-position: center;
    padding:  20px;
-   background:#f1ede6;
-   border: 1px solid #cbad8d; 
+   background:#fefbf2;
+   border: 1px solid #252b48; 
    border-radius: 0.5rem;
 }
 
